@@ -1,9 +1,9 @@
 # Face-Rekognition
 Amazon AWS Rekognition project
 
-![IndexPage](./public/face_rekognition_GUI.png)
+![IndexPage](./public/result.png)
 
-## Description
+## 介紹
 這是透過Amazon AWS的Face Rekognition Service所寫的專案，
 假設使用情境大樓，辨識目標是否為住戶。
 
@@ -17,17 +17,17 @@ Amazon AWS Rekognition project
 
 ## 使用說明
 
-請先下載適用於Python 的AWS開發套件(Boto3)
-`pip install boto3`
+請先下載適用於Python 的AWS開發套件(Boto3)  
+`pip install boto3`  
 
-透過open-cv來進行讀取、顯示、儲存圖像
-`pip install opencv-python`
+透過open-cv來進行讀取、顯示、儲存圖像  
+`pip install opencv-python`  
 
-透過PIL進行轉檔
-`pip install Pillow`
+透過PIL進行轉檔  
+`pip install Pillow`  
 
-會使用到GUI介面
-`pip install tk`
+會使用到GUI介面  
+`pip install tk`  
 
 1. 需申請AWS帳號
 2. 利用IAM Service創建使用者，許可政策為AdministratorAccess及AmazonS3FullAccess並建立存取金鑰
