@@ -1,0 +1,3 @@
+Similarity:99.9976577758789
+Confidence:99.97254180908203
+This person is a resident of the building.
