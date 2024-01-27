@@ -1,7 +1,7 @@
 # Face-Rekognition
 Amazon AWS Rekognition project
 
-![IndexPage]([./public/result.png](https://github.com/RaynaLin/Face-Rekognition/blob/2aed7aef89d3c4e873dc0c438ec966f4e81aaf03/result.png))
+![./public/result.png](https://github.com/RaynaLin/Face-Rekognition/blob/2aed7aef89d3c4e873dc0c438ec966f4e81aaf03/result.png)
 
 ## 介紹
 這是透過Amazon AWS的Face Rekognition Service所寫的專案，
